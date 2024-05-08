@@ -1,8 +1,47 @@
 .container{
-    width: 100%;
-    height: 780px;
+    width: 1200px;
+    margin: 0 auto;
+    height: 720px;
     background-image: url(../../../../public/bg.png);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+.section_one{
+    width: 100%;
+    margin-top: 5.2rem;
+    height: 464px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.left_col{
+    width: 644px;
+    height: 100%;
+}
+.right_col{
+    width: 420px;
+    height: 100%;
+    background-image: url(../../../../public/OverlayBlur.svg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;    
+}
+.h-main{
+    font-family: 'Archivo';
+    font-size: 64px;
+    font-weight: 500;
+    line-height: 1.4;
+}
+
+.h-main span{
+    color: #8A2BE2;
+    font-weight: 600;
+}
+.p-main{
+    margin-top: 1.5em;
+    width: 570px;
+    font-family: 'Roboto';
+    font-size: 20px;
+    line-height: 1.6;
 }
