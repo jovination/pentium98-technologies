@@ -9,11 +9,14 @@ function Navbar() {
         <div className="navbar_links">
          <div className="primary_nav">
                 <a className='logo' href="">
-                <img className='pentium' src="./assets/pentium.png" alt="" 
+                <img 
+                className='pentium' 
+                src="./assets/pentium.png" 
+                alt="logo" 
                 width={30}
-                
                 />
                     PENTIUM98
+                    
                 </a>
                
                <ul>
