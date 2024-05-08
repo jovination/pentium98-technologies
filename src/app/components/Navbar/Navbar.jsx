@@ -1,5 +1,7 @@
 import React from 'react'
 import "./Navbar.css"
+import Image from 'next/image';
+
 function Navbar() {
   return (
     <div className='navbar_wrap'>
@@ -7,6 +9,10 @@ function Navbar() {
         <div className="navbar_links">
          <div className="primary_nav">
                 <a className='logo' href="">
+                <img className='pentium' src="./assets/pentium.png" alt="" 
+                width={30}
+                
+                />
                     PENTIUM98
                 </a>
                
