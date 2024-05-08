@@ -6,7 +6,10 @@
   padding: 6rem;
   min-height: 100vh;
 }
+.wrapper{
+  margin: 0 auto;
 
+}
 .description {
   display: inherit;
   justify-content: inherit;
