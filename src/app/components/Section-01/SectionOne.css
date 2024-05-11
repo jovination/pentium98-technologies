@@ -1,6 +1,6 @@
 .section_01{
     width: 1200px;
-    height: 900px;
+    height: 650px;
     margin: 0 auto;
     display: flex;
     flex-direction: column;
@@ -53,8 +53,11 @@
         justify-content: space-between;
     }
     .wrap_ui_cx{
-        width: 360px;
-        height: 150px;
+        width: 370px;
+        height: 250px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
     }
     .icon_ui{
         width: 40px;
@@ -65,4 +68,15 @@
         display: flex;
         align-items: center;
         justify-content: center;
+    }
+    .p_ui_cx{
+        font-family: 'Roboto Mono';
+        font-size: 16px;
+    }
+    .p_ui_p{
+        font-family: 'Archivo', san-serif;
+        font-size: 16px;
+        line-height: 1.5;
+
+
     }

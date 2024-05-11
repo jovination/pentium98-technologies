@@ -26,16 +26,33 @@ function SectionOne() {
                     <div className="icon_ui i_software">
                         <img className='icon-soft' src="./assets/icon_soft.svg" alt="" />
                     </div>
+                    <p className='p_ui_cx'>
+                    Software Development
+                    </p>
+                    <p className='p_ui_p'>
+                    We help tackle changing tech challenges by creating and designing applications that meet our community's needs                     </p>
                 </div>
                 <div className="wrap_ui_cx wrap_security">
                     <div className="icon_ui i_security">
                         <img className='icon-security' src="./assets/icon_security.svg" alt="" />
                     </div>
+                    <p className='p_ui_cx'>
+                    Cyber Security
+                    </p>
+                    <p className='p_ui_p'>
+                    We provide comprehensive cybersecurity services, including penetration testing, vulnerability assessment, malware analysis, and cryptography                       </p>
                 </div>
                 <div className="wrap_ui_cx wrap_ai">
                     <div className="icon_ui i_ai">
                         <img className='icon-ai' src="./assets/icon_ai.svg" alt="" />
                     </div>
+                    <p className='p_ui_cx'>
+                    Ai, Big Data & Machine Learning              
+                     </p>
+                     <p className='p_ui_p'>
+                     Our AI and Big Data teams are experts in the field of Artificial Intelligence, Machine Learning, and Natural Language Processing.
+                     </p>
+                    
                 </div>
     </div>
       
