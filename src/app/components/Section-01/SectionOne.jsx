@@ -7,7 +7,7 @@ function SectionOne() {
     <div className='section_01'>
      <div className="upper_row">
         <div className="s_wraper">
-        <p className='p-section-1'>Our Services</p>
+        <p className='p-section-1'>Services</p>
         <h1 className='h-section-1'>
             Stay true to Our Core Values
         </h1>

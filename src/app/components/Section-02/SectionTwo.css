@@ -3,3 +3,22 @@
     height: 900px;
     margin: 0 auto;
 }
+.upper_2_row{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.h-section-2{
+    font-family: 'Archivo', san-serif;
+    font-size: 48px;
+}
+.p-section-2-a{
+    width: 585px;
+    font-family: 'Roboto', san-serif;
+    text-align: center;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #b5bdc5;
+}
