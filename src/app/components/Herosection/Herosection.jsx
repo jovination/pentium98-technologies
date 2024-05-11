@@ -12,7 +12,7 @@ function Herosection() {
                 Where innovation meet <span>Security</span>
              </h1>
              <p className="p-main">
-             We work with amazing companies, startups and people in Africa to build things that matter.
+             We work with amazing companies, startups and people in Africa to build things that matter. 
              </p>
              <div className="btn_wrap">
 
@@ -31,6 +31,7 @@ function Herosection() {
                 <img className='arrow_icon' src='./assets/right_1.svg' alt="" />
 
               </div>
+            
 
              </div>
             </div>

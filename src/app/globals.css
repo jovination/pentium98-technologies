@@ -95,7 +95,7 @@ body {
   background: linear-gradient(
       to bottom,
       transparent,
-      rgb(var(--background-end-rgb))
+      #0e0618
     )
     rgb(var(--background-start-rgb));
 }

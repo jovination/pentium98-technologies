@@ -1,0 +1,68 @@
+.section_01{
+    width: 1200px;
+    height: 900px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+    gap: 5rem;
+
+}
+.upper_row{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.h-section-1{
+    font-family: 'Archivo', sans-serif;
+    font-size: 48px;
+     font-weight: 500;
+}
+.p-section-1{
+    font-family: 'Roboto Mono';
+    color: #8A2BE2;
+    font-size: 18px;
+}
+.p-section-1-a{
+    font-family: 'Roboto';
+    font-size: 18px;
+    line-height: 1.5;
+}
+.s_wraper{
+    width: 35rem;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.explore-svc-btn{
+    height: 50px;
+    padding: 0 20px;
+    font-family: 'Roboto Mono', san-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-transform: uppercase;
+    background: #1C1325;
+    border-radius: 12px;
+    border: .6px solid #30363D;
+    gap: 4px;
+    font-size: 14px;
+    }
+    .lower_row{
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+    }
+    .wrap_ui_cx{
+        width: 360px;
+        height: 150px;
+    }
+    .icon_ui{
+        width: 40px;
+        height: 40px;
+        background: #1C1325;
+        border-radius: 8px;
+        border: .6px solid #30363D;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
