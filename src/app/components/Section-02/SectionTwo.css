@@ -1,6 +1,8 @@
 .section_02{
     width: 1200px;
-    height: 900px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
     margin: 0 auto;
 }
 .upper_2_row{
@@ -21,4 +23,18 @@
     font-size: 18px;
     line-height: 1.5;
     color: #b5bdc5;
+}
+.seg_ui{
+  display: grid;
+  grid-template-columns: auto auto auto;   
+  gap: 10px;
+}
+.seg_ui_wrap{
+    margin-top: 15px;
+    width: 378px;
+    height: 420px;
+    background: #1c13258e;
+    border-radius: 14px;
+    border: .6px solid #30363D;
+
 }
