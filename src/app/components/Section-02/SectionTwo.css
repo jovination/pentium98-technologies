@@ -2,7 +2,7 @@
     width: 1200px;
     display: flex;
     flex-direction: column;
-    gap: 50px;
+    gap: 70px;
     margin: 0 auto;
 }
 .upper_2_row{
@@ -30,23 +30,52 @@
   gap: 10px;
 }
 .seg_ui_wrap {
-    margin-top: 15px;
-    width: 378px;
-    height: 420px;
-    background: rgba(28, 19, 37, 0.56); /* Adjust opacity as needed */
-    border-radius: 14px;
-    position: relative;
-    overflow: hidden;
-    border-radius: 20px;
+    width: 375px;
+    height: 414px;
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+  
 }
 
-.seg_ui_wrap::before {
-    content: "";
-    position: absolute;
-    top: 0;
-    left: 0;
+
+.p_title_seg{
+    font-family: "Roboto Mono", monospace;
+    font-weight: 600;
+    font-size: 18px;
+}
+.img_seg{
     width: 100%;
-    height: 100%;
-    background-image: radial-gradient( #892be22c 20%, #121212 80%);
-    z-index: -1;
+    height: 264px;
+    border-radius: 14px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.soft_dev{
+    background-image: url(../../../../public/soft_dev.jpg);
+}
+.mobile_dev{
+    background-image: url(../../../../public/mobile_dev.jpg);
+}
+.embedded_system{
+    background-image: url(../.././../../public/embedded_system.jpg);
+}
+.soft_main{
+    background-image: url(../../../../public/soft_main.jpg);
+}
+.vul_asses{
+    background-image: url(../../../../public/vul_asses.jpg);
+}
+.syst_audit{
+    background-image: url(../../../../public/syst_audit.jpg);
+}
+.penet_test{
+    background-image: url(../../../../public/penet_test.jpg);
+}
+.ai_bg_ml{
+    background-image: url(../../../../public/ai_bg_ml.jpg);
+}
+.comp_fore{
+    background-image: url(../../../../public/comp_fore.jpg);
 }
