@@ -31,10 +31,10 @@
 }
 .seg_ui_wrap {
     width: 375px;
-    height: 414px;
+    height: 450px;
     display: flex;
     flex-direction: column;
-    gap: 30px;
+    gap: 10px;
   
 }
 
@@ -51,6 +51,7 @@
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+    cursor: pointer;
 }
 .soft_dev{
     background-image: url(../../../../public/soft_dev.jpg);
@@ -78,4 +79,31 @@
 }
 .comp_fore{
     background-image: url(../../../../public/comp_fore.jpg);
+}
+.wrapper_seg_ui{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    gap: 10px;
+}
+.t_details{
+    font-family: 'Roboto', san-serif;
+    font-size: 17px;
+    line-height: 1.3;
+    color: #b5bdc5;
+}
+.learn_more_1{
+    display: flex;
+    
+}
+.learn_more_1 a{
+    display: flex;
+    align-items: center;
+    gap: 4px;
+    font-family: 'Roboto Mono', sans-serif;
+    font-size: 14px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #8a2be2;
 }

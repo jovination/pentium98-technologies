@@ -1,5 +1,7 @@
 import React from 'react'
 import './SectionTwo.css'
+import Image from 'next/image';
+
 
 function SectionTwo() {
   return (
@@ -23,6 +25,15 @@ function SectionTwo() {
               <p className='p_title_seg'>
               Custom Software development
               </p>
+              <span className='t_details'>
+              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
+              </span>
+              <div className="learn_more_1">
+                <a href="">
+                Learn More
+                <img className='arrow_icon' src='./assets/right_2.svg' alt="" width={18} />
+                </a>
+              </div>
               </div>
             </div>
 
@@ -34,6 +45,15 @@ function SectionTwo() {
             <p className='p_title_seg'>
             Mobile development
               </p>
+              <span className='t_details'>
+              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
+              </span>
+              <div className="learn_more_1">
+                <a href="">
+                Learn More
+                <img className='arrow_icon' src='./assets/right_2.svg' alt="" width={18} />
+                </a>
+              </div>
               </div>
             </div>
 
@@ -43,7 +63,17 @@ function SectionTwo() {
                 </div>
                 <div className="wrapper_seg_ui">
             <p className='p_title_seg'>
-            Embedded System             </p>
+            Embedded System             
+            </p>
+            <span className='t_details'>
+              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
+              </span>
+              <div className="learn_more_1">
+                <a href="">
+                Learn More
+                <img className='arrow_icon' src='./assets/right_2.svg' alt="" width={18} />
+                </a>
+              </div>
             </div>
             </div>
 
@@ -55,6 +85,15 @@ function SectionTwo() {
             <p className='p_title_seg '>
             Software maintainance
               </p>
+              <span className='t_details'>
+              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
+              </span>
+              <div className="learn_more_1">
+                <a href="">
+                Learn More
+                <img className='arrow_icon' src='./assets/right_2.svg' alt="" width={18} />
+                </a>
+              </div>
              </div> 
             </div>
             
@@ -66,6 +105,15 @@ function SectionTwo() {
             <p className='p_title_seg'>
             Vulnerabilities Assessment
               </p>
+              <span className='t_details'>
+              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
+              </span>
+              <div className="learn_more_1">
+                <a href="">
+                Learn More
+                <img className='arrow_icon' src='./assets/right_2.svg' alt="" width={18} />
+                </a>
+              </div>
             </div>  
             </div>
 
@@ -77,6 +125,15 @@ function SectionTwo() {
             <p className='p_title_seg '>
             System Auditing
               </p>
+              <span className='t_details'>
+              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
+              </span>
+              <div className="learn_more_1">
+                <a href="">
+                Learn More
+                <img className='arrow_icon' src='./assets/right_2.svg' alt="" width={18} />
+                </a>
+              </div>
              </div>
              </div>
 
@@ -88,6 +145,15 @@ function SectionTwo() {
                 <p className='p_title_seg '>
                 Penetration Testing
                   </p>
+                  <span className='t_details'>
+              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
+              </span>
+              <div className="learn_more_1">
+                <a href="">
+                Learn More
+                <img className='arrow_icon' src='./assets/right_2.svg' alt="" width={18} />
+                </a>
+              </div>
               </div>    
             </div>
 
@@ -99,6 +165,15 @@ function SectionTwo() {
               <p className='p_title_seg'>
               Ai, Big Data & Machine Learning
               </p>
+              <span className='t_details'>
+              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
+              </span>
+              <div className="learn_more_1">
+                <a href="">
+                Learn More
+                <img className='arrow_icon' src='./assets/right_2.svg' alt="" width={18} />
+                </a>
+              </div>
               </div>
             </div>
 
@@ -110,6 +185,15 @@ function SectionTwo() {
               <p className='p_title_seg'>
               Computer Forensics              
               </p>
+              <span className='t_details'>
+              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
+              </span>
+              <div className="learn_more_1">
+                <a href="">
+                Learn More
+                <img className='arrow_icon' src='./assets/right_2.svg' alt="" width={18} />
+                </a>
+              </div>
               </div>
             </div>
 
