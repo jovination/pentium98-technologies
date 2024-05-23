@@ -46,8 +46,7 @@ function SectionTwo() {
             Mobile development
               </p>
               <span className='t_details'>
-              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
-              </span>
+              Are you looking to develop a professional & innovative mobile app for your business?               </span>
               <div className="learn_more_1">
                 <a href="">
                 Learn More
@@ -66,8 +65,7 @@ function SectionTwo() {
             Embedded System             
             </p>
             <span className='t_details'>
-              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
-              </span>
+            We specialize in creating embedded software that makes your systems run smoothly and meet your exact needs            </span>
               <div className="learn_more_1">
                 <a href="">
                 Learn More
@@ -86,8 +84,7 @@ function SectionTwo() {
             Software maintainance
               </p>
               <span className='t_details'>
-              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
-              </span>
+              We offer comprehensive software maintenance services to help you streamline your IT operations and focus on innovation              </span>
               <div className="learn_more_1">
                 <a href="">
                 Learn More
@@ -106,8 +103,7 @@ function SectionTwo() {
             Vulnerabilities Assessment
               </p>
               <span className='t_details'>
-              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
-              </span>
+              Protecting your systems from cyber threats requires more than just anti-virus software and firewalls. </span>
               <div className="learn_more_1">
                 <a href="">
                 Learn More
