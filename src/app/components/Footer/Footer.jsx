@@ -65,7 +65,13 @@ function Footer() {
             </div>
         </div>
         </div>
-      
+       <div className="footer_ui_1">
+        <div className="copy_right">
+            <p>
+            &copy; 2024 Pentium98. All rights reserved.
+            </p>
+        </div>
+       </div>
     </div>
   )
 }
