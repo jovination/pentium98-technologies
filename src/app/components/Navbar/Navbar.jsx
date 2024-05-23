@@ -21,10 +21,11 @@ function Navbar() {
                
                <ul>
                 <li><a href="">home</a></li>
-                <li><a href="">about</a></li>
-                <li><a href="">services</a></li>
+                <li><a href="#services">services</a></li>
+                <li><a href="">clients</a></li>
                 <li><a href="">products</a></li>
-                <li><a href="">client</a></li>
+                <li><a href="">about</a></li>
+
                </ul>
         </div>
                <div className='secondary_nav'>

@@ -8,7 +8,7 @@ function SectionTwo() {
     <div className='section_02'>
         <div className="upper_2_row">
 
-            <p className='p-section-1'>Our Services</p>
+            <p className='p-section-1' id='services'>Our Services</p>
             <h1 className='h-section-2'>
                 What we offer
             </h1>
@@ -122,8 +122,7 @@ function SectionTwo() {
             System Auditing
               </p>
               <span className='t_details'>
-              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
-              </span>
+              As part of our Consultancy Services, we offer System Audits to assess and enhance system effectiveness.              </span>
               <div className="learn_more_1">
                 <a href="">
                 Learn More
@@ -142,8 +141,7 @@ function SectionTwo() {
                 Penetration Testing
                   </p>
                   <span className='t_details'>
-              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
-              </span>
+                  Our penetration testing services are designed to fortify your cyber defenses through a meticulous and strategic approach              </span>
               <div className="learn_more_1">
                 <a href="">
                 Learn More
@@ -162,8 +160,7 @@ function SectionTwo() {
               Ai, Big Data & Machine Learning
               </p>
               <span className='t_details'>
-              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
-              </span>
+              We establish intelligent and influential solutions that are capable of strengthening functional efficiency and powering business growth.              </span>
               <div className="learn_more_1">
                 <a href="">
                 Learn More
@@ -182,8 +179,7 @@ function SectionTwo() {
               Computer Forensics              
               </p>
               <span className='t_details'>
-              We deliver amazing UI and UX that help businesses engage with customers and tap into new markets
-              </span>
+              We offer a systematic approach to uncovering digital evidence for legal, investigative, or cybersecurity purposes              </span>
               <div className="learn_more_1">
                 <a href="">
                 Learn More

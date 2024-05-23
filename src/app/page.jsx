@@ -4,6 +4,7 @@ import Navbar from "./components/Navbar/Navbar";
 import Herosection from "./components/Herosection/Herosection";
 import SectionOne from "./components/Section-01/SectionOne";
 import SectionTwo from "./components/Section-02/SectionTwo";
+import Footer from "./components/Footer/Footer";
     
 
 export default function Home() {
@@ -13,6 +14,8 @@ export default function Home() {
    <Herosection />
    <SectionOne />
    <SectionTwo />
+   <Footer />
+
    </div>
   );
 }
