@@ -12,8 +12,7 @@ function SectionOne() {
             Stay true to Our Core Values
         </h1>
          <p className='p-section-1-a'>
-         We specialize in delivering high-quality, scalable, and secure solutions tailored to meet your business objectives. 
-        </p>
+We collaborate with innovative companies, startups, and individuals across Africa to create impactful solutions.        </p>
      </div>
      <div className="explore-svc-btn">
          <a  href="">Explore Services</a>

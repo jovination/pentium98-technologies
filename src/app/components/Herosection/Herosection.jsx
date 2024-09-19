@@ -12,8 +12,7 @@ function Herosection() {
                 Where innovation meet <span>Security</span>
              </h1>
              <p className="p-main">
-             We work with amazing companies, startups and people in Africa to build things that matter. 
-             </p>
+             We collaborate with innovative companies, startups, and individuals across Africa to create impactful solutions.             </p>
              <div className="btn_wrap">
 
             <div className='get-btn'>
